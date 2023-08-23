@@ -1,0 +1,3 @@
+D:/Alireza/CODE/cpp/prj/projectbest/project/cmake-build-debug/CMakeFiles/project.dir
+D:/Alireza/CODE/cpp/prj/projectbest/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Alireza/CODE/cpp/prj/projectbest/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
